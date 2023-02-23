@@ -19,7 +19,10 @@ class Pig implements Animal {
 class Main {
   public static void main(String[] args) {
     Pig myPig = new Pig();  // Create a Pig object
-    myPig.animalSound();
+    myPig.animalSound();    // object - mypig 
     myPig.sleep();
   }
 }
+ // output 
+// The pig says: wee wee
+// Zzz
