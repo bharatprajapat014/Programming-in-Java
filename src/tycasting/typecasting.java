@@ -8,3 +8,4 @@ public class typecasting {
         System.out.println(a);
     }
 }
+//float to int 
